@@ -4,10 +4,10 @@
 
 int main()
 {
-    int lmin;
-    int lmax;
-    float cost;
-    float conb;
+    int lmin = 0;
+    int lmax = 0;
+    float cost = 0.0;
+    float conb = 0.0;
 
     printf("\n\n ingrese los litros minimos que su vehiculo necesita cada 100Km: ");
     scanf("%d", &lmin);
