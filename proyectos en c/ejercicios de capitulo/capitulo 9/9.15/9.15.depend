@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731543875 source:c:\users\elflacox\onedrive\escritorio\;-;\ca\9.15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
