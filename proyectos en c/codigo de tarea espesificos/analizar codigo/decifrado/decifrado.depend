@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732137110 source:c:\users\elflacox\onedrive\escritorio\materiales de clase\programacion\c\proyectos en c\codigo de tarea espesificos\analizar codigo\decifrado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
