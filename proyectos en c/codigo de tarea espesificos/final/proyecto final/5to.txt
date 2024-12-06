@@ -1,0 +1,1 @@
+estudiante: maria, calificacion: 8.70, carrera: mecas

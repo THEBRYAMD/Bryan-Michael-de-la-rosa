@@ -1,0 +1,1 @@
+estudiante: s, calificacion: 0.00, carrera: ss

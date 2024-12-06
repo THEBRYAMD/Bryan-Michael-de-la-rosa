@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733441901 source:c:\users\elflacox\onedrive\escritorio\materiales de clase\programacion\c\proyectos en c\codigo de tarea espesificos\final\proyecto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
